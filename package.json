@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-grup-botu",
+  "version": "1.0.0",
+  "description": "Excel/CSV listesindeki numaraları bir WhatsApp grubuna tek tek ekler",
+  "main": "bot.js",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "1.34.7"
+  }
+}

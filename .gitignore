@@ -1,0 +1,19 @@
+# Bağımlılıklar (baslat.bat ilk çalıştırmada kurar)
+node_modules/
+
+# WhatsApp oturumları — ASLA yüklenmemeli (hesaba erişim sağlar)
+.wwebjs_auth/
+.wwebjs_cache/
+oturumlar.json
+
+# Kişisel veriler: üye listeleri ve raporlar (telefon numaraları içerir)
+raporlar/
+/*.xlsx
+/*.xls
+/*.csv
+~$*
+
+# Sistem dosyaları
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,7 @@
+{
+  "partiBoyutu": 1,
+  "beklemeMinSaniye": 60,
+  "beklemeMaxSaniye": 150,
+  "calistirmaBasinaLimit": 25,
+  "tarayici": ""
+}
