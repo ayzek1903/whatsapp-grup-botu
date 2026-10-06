@@ -53,7 +53,7 @@ Google Forms → **Yanıtlar** → **E-Tablolar'da görüntüle** → **Dosya �
 **`baslat.bat`** dosyasına çift tıkla ve soruları cevapla:
 
 1. **Hangi WhatsApp numarasıyla?**
-   - İlk seferde **"Yeni bir WhatsApp numarası bağla"**yı seç. Bir Chrome penceresi açılır; oradaki QR kodu
+   - İlk seferde **Yeni bir WhatsApp numarası bağla** seçeneğini seç. Bir Chrome penceresi açılır; oradaki QR kodu
      telefonda **WhatsApp → Ayarlar → Bağlı cihazlar → Cihaz bağla** ile okut.
    - Sonraki seferlerde numaran listede çıkar, onu seçmen yeter.
 2. **Grup adından bir parça yaz** → yönetici olduğun gruplar listelenir, grubun numarasını yaz.
